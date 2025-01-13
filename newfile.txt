@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added  a line from main branch
+=======
+added a line to newfile.txt from main branch
+>>>>>>> hotfix
